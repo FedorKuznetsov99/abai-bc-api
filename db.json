@@ -1,0 +1,434 @@
+{
+  "objects": [
+    {
+      "id": "003",
+      "categoryId": "f0",
+      "name": "Техническое помещение",
+      "desc": "Техническое помещение"
+    },
+    {
+      "id": "019",
+      "categoryId": "f0",
+      "name": "Лифт цоколь",
+      "desc": "Лифт цоколь"
+    },
+    {
+      "id": "024",
+      "categoryId": "f0",
+      "name": "Туалет №1 цоколь",
+      "desc": "Туалет №1 цоколь"
+    },
+    {
+      "id": "025",
+      "categoryId": "f0",
+      "name": "Туалет №2 цоколь",
+      "desc": "Туалет №2 цоколь"
+    },
+    {
+      "id": "101",
+      "categoryId": "f1",
+      "name": "КГУ \"Аппарат акима Ауэзовского района города Алматы\"",
+      "desc": "КГУ \"Аппарат акима Ауэзовского района города Алматы\""
+    },
+    {
+      "id": "102",
+      "categoryId": "f1",
+      "name": "URBO COFFEE",
+      "desc": "URBO COFFEE"
+    },
+    {
+      "id": "103",
+      "categoryId": "f1",
+      "name": "ИП «ДҮЙСЕНБАЕВ»",
+      "desc": "ИП «ДҮЙСЕНБАЕВ»"
+    },
+    {
+      "id": "104",
+      "categoryId": "f1",
+      "name": "ИП «ORDABEKOVA ZH»",
+      "desc": "ИП «ORDABEKOVA ZH»"
+    },
+    {
+      "id": "105",
+      "categoryId": "f1",
+      "name": "ИП \"Аманат\"",
+      "desc": "ИП \"Аманат\""
+    },
+    {
+      "id": "106",
+      "categoryId": "f1",
+      "name": "ИП PROF MEBEL",
+      "desc": "ИП PROF MEBEL"
+    },
+    {
+      "id": "107",
+      "categoryId": "f1",
+      "name": "ИП \"Аманат\"",
+      "desc": "ИП \"Аманат\""
+    },
+    {
+      "id": "108",
+      "categoryId": "f1",
+      "name": "ИП \"Аманат\"",
+      "desc": "ИП \"Аманат\""
+    },
+    {
+      "id": "110",
+      "categoryId": "f1",
+      "name": "ИП \"Аманат\"",
+      "desc": "ИП \"Аманат\""
+    },
+    {
+      "id": "111",
+      "categoryId": "f1",
+      "name": "ТОО \"Дом Учета\"",
+      "desc": "ТОО \"Дом Учета\""
+    },
+    {
+      "id": "112",
+      "categoryId": "f1",
+      "name": "Охрана ресепшн",
+      "desc": "Охрана ресепшн"
+    },
+    {
+      "id": "113",
+      "categoryId": "f1",
+      "name": "ТОО «PROFI 8»",
+      "desc": "ТОО «PROFI 8»"
+    },
+    {
+      "id": "114",
+      "categoryId": "f1",
+      "name": "Администрация",
+      "desc": "Администрация"
+    },
+    {
+      "id": "115",
+      "categoryId": "f1",
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": "116",
+      "categoryId": "f1",
+      "name": "ТОО «Проектинвест СМ»",
+      "desc": "ТОО «Проектинвест СМ»"
+    },
+    {
+      "id": "117",
+      "categoryId": "f1",
+      "name": "ИП \"Международная профессиональная шахматная школа\"",
+      "desc": "ИП \"Международная профессиональная шахматная школа\""
+    },
+    {
+      "id": "118",
+      "categoryId": "f1",
+      "name": "ТОО «MUST VISIT»",
+      "desc": "ТОО «MUST VISIT»"
+    },
+    {
+      "id": "119",
+      "categoryId": "f1",
+      "name": "ТОО «Правильная Бухгалтерия»",
+      "desc": "ТОО «Правильная Бухгалтерия»"
+    },
+    {
+      "id": "120",
+      "categoryId": "f1",
+      "name": "ТОО «Freedom Soft»",
+      "desc": "ТОО «Freedom Soft»"
+    },
+    {
+      "id": "121",
+      "categoryId": "f1",
+      "name": "ТОО «Правильная Бухгалтерия»",
+      "desc": "ТОО «Правильная Бухгалтерия»"
+    },
+    {
+      "id": "122",
+      "categoryId": "f1",
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": "123",
+      "categoryId": "f1",
+      "name": "ИП «RASCHET.KZ»",
+      "desc": "ИП «RASCHET.KZ»"
+    },
+    {
+      "id": "124",
+      "categoryId": "f1",
+      "name": "ТОО «Freedom Soft»",
+      "desc": "ТОО «Freedom Soft»"
+    },
+    {
+      "id": "125",
+      "categoryId": "f1",
+      "name": "ИП «Камбар»",
+      "desc": "ИП «Камбар»"
+    },
+    {
+      "id": "126",
+      "categoryId": "f1",
+      "name": "ТОО «Freedom Soft»",
+      "desc": "ТОО «Freedom Soft»"
+    },
+    {
+      "id": "127",
+      "categoryId": "f1",
+      "name": "ТОО \"БИЗА ГОУ\"",
+      "desc": "ТОО \"БИЗА ГОУ\""
+    },
+    {
+      "id": "128",
+      "categoryId": "f1",
+      "name": "ТОО \"NCRM Group\"",
+      "desc": "ТОО \"NCRM Group\""
+    },
+    {
+      "id": "130",
+      "categoryId": "f1",
+      "name": "ИП «ALISHA»",
+      "desc": "ИП «ALISHA»"
+    },
+
+    {
+      "id": "201",
+      "categoryId": "f2",
+      "name": "ТОО «Abai baspasy»",
+      "desc": "ТОО «Abai baspasy»"
+    },
+    {
+      "id": "202",
+      "categoryId": "f2",
+      "name": "ИП «Букенова»",
+      "desc": "ИП «Букенова»"
+    },
+    {
+      "id": "203",
+      "categoryId": "f2",
+      "name": "ИП «Меруерт»",
+      "desc": "ИП «Меруерт»"
+    },
+    {
+      "id": "204",
+      "categoryId": "f2",
+      "name": "ИП «КРЕДО»",
+      "desc": "ИП «КРЕДО»"
+    },
+    {
+      "id": "205",
+      "categoryId": "f2",
+      "name": "АРТЫКОВ АСЫЛ АБДЕЕВИЧ (ИП «Асыл»)",
+      "desc": "АРТЫКОВ АСЫЛ АБДЕЕВИЧ (ИП «Асыл»)"
+    },
+    {
+      "id": "206",
+      "categoryId": "f2",
+      "name": "ИП PROF MEBEL",
+      "desc": "ИП PROF MEBEL"
+    },
+    {
+      "id": "207",
+      "categoryId": "f2",
+      "name": "ТОО \"NSK Trans Logistics\"",
+      "desc": "ТОО \"NSK Trans Logistics\""
+    },
+    {
+      "id": "208",
+      "categoryId": "f2",
+      "name": "ТОО \"UMMED\"",
+      "desc": "ТОО \"UMMED\""
+    },
+    {
+      "id": "209",
+      "categoryId": "f2",
+      "name": "ТОО \"Garant_Ipoteki.Almaty\"",
+      "desc": "ТОО \"Garant_Ipoteki.Almaty\""
+    },
+    {
+      "id": "210",
+      "categoryId": "f2",
+      "name": "ТОО «Figura IT» (Фигура Айти)",
+      "desc": "ТОО «Figura IT» (Фигура Айти)"
+    },
+    {
+      "id": "211",
+      "categoryId": "f2",
+      "name": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ",
+      "desc": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ"
+    },
+    {
+      "id": "212",
+      "categoryId": "f2",
+      "name": "ТОО «Figura IT» (Фигура Айти)",
+      "desc": "ТОО «Figura IT» (Фигура Айти)"
+    },
+    {
+      "id": "213",
+      "categoryId": "f2",
+      "name": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ",
+      "desc": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ"
+    },
+    {
+      "id": "214",
+      "categoryId": "f2",
+      "name": "ТОО «Хайперван»",
+      "desc": "ТОО «Хайперван»"
+    },
+    {
+      "id": "215",
+      "categoryId": "f2",
+      "name": "ТОО \"VELTA TRANS\"",
+      "desc": "ТОО \"VELTA TRANS\""
+    },
+    {
+      "id": "216",
+      "categoryId": "f2",
+      "name": "ИП «BATYR»",
+      "desc": "ИП «BATYR»"
+    },
+    {
+      "id": "217",
+      "categoryId": "f2",
+      "name": "ТОО \"VELTA TRANS\"",
+      "desc": "ТОО \"VELTA TRANS\""
+    },
+    {
+      "id": "218",
+      "categoryId": "f2",
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": "219",
+      "categoryId": "f2",
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": "220",
+      "categoryId": "f2",
+      "name": "ТОО \"AG INCOME\"",
+      "desc": "ТОО \"AG INCOME\""
+    },
+    {
+      "id": "221",
+      "categoryId": "f2",
+      "name": "ИП «BATYR»",
+      "desc": "ИП «BATYR»"
+    },
+    {
+      "id": "222",
+      "categoryId": "f2",
+      "name": "ТОО \"UMMED\"",
+      "desc": "ТОО \"UMMED\""
+    },
+    {
+      "id": "223",
+      "categoryId": "f2",
+      "name": "ТОО \"UMMED\"",
+      "desc": "ТОО \"UMMED\""
+    }
+  ],
+    {
+      "id": "305",
+      "categoryId": "f3",
+      "name": "Fruiteamood ИП №305",
+      "desc": "Fruiteamood ИП"
+    },
+    {
+      "id": "308",
+      "categoryId": "f3",
+      "name": "BATYR ИП №308",
+      "desc": "BATYR ИП"
+    },
+    {
+      "id": "309",
+      "categoryId": "f3",
+      "name": "Fruiteamood ИП №309",
+      "desc": "Fruiteamood ИП"
+    },
+    {
+      "id": "314",
+      "categoryId": "f3",
+      "name": "Кабдулины ИП",
+      "desc": "Кабдулины ИП"
+    },
+    {
+      "id": "401",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО №401",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "402",
+      "categoryId": "f4",
+      "name": "AL-Shifa ИП",
+      "desc": "AL-Shifa ИП"
+    },
+    {
+      "id": "412",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО №412",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "413",
+      "categoryId": "f4",
+      "name": "Cropi Max ТОО №413",
+      "desc": "Cropi Max ТОО"
+    },
+    {
+      "id": "507",
+      "categoryId": "f5",
+      "name": "Bolashaq ИП",
+      "desc": "Bolashaq ИП"
+    },
+    {
+      "id": "517",
+      "categoryId": "f5",
+      "name": "Арман Арыстан ИП",
+      "desc": "Арман Арыстан ИП"
+    },
+    {
+      "id": "523",
+      "categoryId": "f5",
+      "name": "IS Holding ТОО №523",
+      "desc": "IS Holding ТОО"
+    },
+    {
+      "id": "525",
+      "categoryId": "f5",
+      "name": "IS Holding ТОО №525",
+      "desc": "IS Holding ТОО"
+    }
+  ],
+  "categories": [
+    {
+      "id": "f1",
+      "name": "1 этаж"
+    },
+    {
+      "id": "f2",
+      "name": "2 этаж"
+    },
+    {
+      "id": "f3",
+      "name": "3 этаж"
+    },
+    {
+      "id": "f4",
+      "name": "4 этаж"
+    },
+    {
+      "id": "f5",
+      "name": "5 этаж"
+    },
+    {
+      "id": "f0",
+      "name": "0 этаж"
+    }
+  ]
+}
